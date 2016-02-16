@@ -14,7 +14,7 @@
    ms.topic="article"
    ms.tgt_pltfrm="vm-multiple"
    ms.workload="infrastructure-services"
-   ms.date="11/10/2015"
+   ms.date="02/16/2016"
    ms.author="dkshir;memccror"/>
 
 # How to Tag a Virtual Machine in Azure
